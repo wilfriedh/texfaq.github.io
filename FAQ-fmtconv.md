@@ -74,7 +74,7 @@ The list also contains no recommendations.
   
 - Convert LaTeX to `OpenOffice` format, using the 
   `tex4ht` command `oolatex`; open the result in `OpenOffice` 
-  or `LibreOffice`and "save as" a MS-Word document. 
+  or `LibreOffice` and "save as" a MS-Word document. 
   (Note that `OpenOffice` and `LibreOffice` themselves are _not_ on CTAN; 
   see [http://www.openoffice.org/](http://www.openoffice.org/) or 
   [https://www.libreoffice.org/](https://www.libreoffice.org/), 
